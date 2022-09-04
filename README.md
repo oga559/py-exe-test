@@ -1,4 +1,7 @@
 # py-exe-test
+pythonの実行ファイル化をテストした。
+その手順を下記にまとめた。
+
 1.PyInstallerをインストール
 py -m pip install PyInstaller
 
