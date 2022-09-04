@@ -9,3 +9,4 @@ py -m pip install PyInstaller
 ※pip listでPyInstallerが全て小文字で表示されるが,PyInstallerと入力する
 py -m PyInstaller ~~.py
 
+3.dictフォルダー内の~.exeを実行
